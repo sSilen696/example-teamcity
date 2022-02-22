@@ -10,4 +10,7 @@ public class Welcomer{
 	public String sayHunter() {
 		return "Hunter, good hunter. May you find your worth in waking world.";
 	}
+	public String sayAny() {
+	    return "Hey, hunter"
+	}
 }
