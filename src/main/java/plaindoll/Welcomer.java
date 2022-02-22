@@ -11,6 +11,6 @@ public class Welcomer{
 		return "Hunter, good hunter. May you find your worth in waking world.";
 	}
 	public String sayAny() {
-	    return "Hey, hunter"
+	    return "Hey, hunter";
 	}
 }
